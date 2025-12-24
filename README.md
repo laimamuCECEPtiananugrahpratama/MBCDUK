@@ -30,4 +30,6 @@ Game ini fokus pada manajemen fokus dan pendengaran.
 *Dibuat dengan rasa takut oleh Cecep yang imupp dan perkasa.
 dan bantuan psikologis dari seseorang. terimakasih.
 
+visi : menambahkan wilson, mengimprove game, menambahkan sistem malam.
+
 BUKAN LU WILDAN. BUKAN LU.
