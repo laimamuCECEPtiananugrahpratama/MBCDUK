@@ -24,7 +24,7 @@ Game ini fokus pada manajemen fokus dan pendengaran.
 - **AI Director:** Kesulitan meningkat seiring bertambahnya progress memasak.
 
 ## 🚀 Link Game
-[MAINKAN MBCDUK DI SINI](https://username_kamu.github.io/mbcduk-game/)
+[MAINKAN MBCDUK DI SINI](https://laimamuceceptiananugrahpratama.github.io/MBCDUK/)  gamenya masih buruk, jelek, gajelas, rusak. wajarin ya. anak nolep pertama kalinya memegang github dan coding.
 
 ---
 *Dibuat dengan rasa takut oleh Cecep yang imupp dan perkasa.
